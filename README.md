@@ -1,3 +1,20 @@
+## About Project : 
+Project: Simple Library Management System 
+Design and implement web application to manage Library with this features:
+
+- user/admin
+1 admin can login / Logout.
+2 admin can add new book details( number, book title, author name, edition and
+submission date).
+3 admin can edit book details.
+4 admin can delete book .
+
+- user
+5 Web page to enter book name to be searched and show search result.
+6 web page display book with details like books submission date, book title, author
+name, etc.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
