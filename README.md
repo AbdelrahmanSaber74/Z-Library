@@ -1,8 +1,7 @@
 ## About Project : 
 Project: Simple Library Management System 
-Design and implement web application to manage Library with this features:
+Design and implement web application to manage Library with this features: user/ admin
 
-user/admin
 1 admin can login / Logout.
 2 admin can add new book details( number, book title, author name, edition and
 submission date).
